@@ -1,0 +1,117 @@
+{
+  "personas": [
+    {
+      "id": "1",
+      "codigo": "1001",
+      "nombre": "Juan Carlos",
+      "apellido": "Pérez",
+      "genero": "Femenino",
+      "correo": "juan@gmail.com",
+      "privilegio": "Guest"
+    },
+    {
+      "id": "2",
+      "codigo": "1002",
+      "nombre": "Maria",
+      "apellido": "Gómez",
+      "genero": "Femenino",
+      "correo": "maria@test.com",
+      "privilegio": "User"
+    },
+    {
+      "id": "6222",
+      "codigo": "777",
+      "nombre": "Vegeta",
+      "apellido": "setesientossetentaisiete",
+      "genero": "Masculino",
+      "correo": "david@gmai.com",
+      "privilegio": "Admin"
+    },
+    {
+      "id": "7c04",
+      "codigo": "1003",
+      "nombre": "pepe",
+      "apellido": "pepito",
+      "genero": "Masculino",
+      "correo": "sebas.bc.04@gmail.com",
+      "privilegio": "Admin"
+    },
+    {
+      "id": "1811",
+      "codigo": "1001",
+      "nombre": "Juan carlos",
+      "apellido": "Perez",
+      "genero": "Masculino",
+      "correo": "sebas.bc.04@gmail.com",
+      "privilegio": "User"
+    },
+    {
+      "id": "b29f",
+      "codigo": "1003",
+      "nombre": "pepe",
+      "apellido": "pepito",
+      "genero": "Masculino",
+      "correo": "sebas.bc.04@gmail.com",
+      "privilegio": "Admin"
+    }
+  ],
+  "clientes": [],
+  "productos": [],
+  "categorias": [
+    {
+      "id": "6de9",
+      "codigo": "P006",
+      "categoria": "Pc"
+    }
+  ],
+  "proveedores": [],
+  "cargos": [
+    {
+      "id": "9820",
+      "codigo": "1001",
+      "nombre": "ASDASD",
+      "apellido": "asdasdasd",
+      "privilegio": "Bajisimo"
+    },
+    {
+      "id": "a78b",
+      "codigo": "C-01",
+      "nombre": "GERENTE",
+      "apellido": "GERENTE DE VENTAS",
+      "privilegio": "ALTO"
+    }
+  ],
+  "ventas": [
+    {
+      "id": "55a1",
+      "nro_comprobante": "0321023",
+      "cliente": "Pedro Suarez Vertiz",
+      "total": "9",
+      "fecha": "2025-12-04T05:16:21.212Z"
+    },
+    {
+      "id": "ac8e",
+      "nro_comprobante": "123452314",
+      "cliente": "sebas",
+      "total": "100",
+      "fecha": "2025-12-04T12:24:34.444Z"
+    }
+  ],
+  
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "admin",
+      "contraseña": "123",
+      "nombre": "Administrador",
+      "rol": "admin"
+    },
+    {
+      "id": "2",
+      "usuario": "vendedor",
+      "contraseña": "abc",
+      "nombre": "Juan Perez",
+      "rol": "user"
+    }
+  ]
+}
